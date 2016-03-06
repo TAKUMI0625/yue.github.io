@@ -1,0 +1,2 @@
+# yue.github.io
+hexo
